@@ -1,0 +1,6 @@
+[31-Jan-2019 01:52:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/logistics/warehouse/php/logistics_logout.php on line 4
+[04-Feb-2019 04:10:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/logistics/warehouse/php/logistics_logout.php on line 4
+[04-Feb-2019 04:17:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/logistics/warehouse/php/logistics_logout.php on line 4
+[10-Feb-2019 15:03:55 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/logistics/warehouse/php/logistics_logout.php on line 4
+[10-Feb-2019 15:06:54 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/logistics/warehouse/php/logistics_logout.php on line 4
+[10-Feb-2019 15:10:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/logistics/warehouse/php/logistics_logout.php on line 4

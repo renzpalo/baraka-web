@@ -1,0 +1,14 @@
+[29-Jan-2019 15:02:27 UTC] PHP Notice:  Undefined index: security_code in /home/gf13k2r1p8ra/public_html/android/get_cart_details.php on line 9
+[29-Jan-2019 15:02:27 UTC] PHP Notice:  Undefined index: user_id in /home/gf13k2r1p8ra/public_html/android/get_cart_details.php on line 10
+[29-Jan-2019 23:05:33 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[29-Jan-2019 23:05:33 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[29-Jan-2019 23:05:33 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/php/functions.php on line 25
+[31-Jan-2019 05:48:09 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[31-Jan-2019 05:48:09 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[31-Jan-2019 05:48:09 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/php/functions.php on line 25
+[31-Jan-2019 05:59:52 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[31-Jan-2019 05:59:52 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[31-Jan-2019 05:59:52 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/php/functions.php on line 25
+[31-Jan-2019 06:33:00 Asia/Manila] PHP Notice:  Undefined variable: conn in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[31-Jan-2019 06:33:00 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/android/place_order.php on line 111
+[31-Jan-2019 06:33:00 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/gf13k2r1p8ra/public_html/php/functions.php on line 25

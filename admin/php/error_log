@@ -1,0 +1,6 @@
+[30-Jan-2019 06:25:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/admin/php/admin_logout.php on line 4
+[04-Feb-2019 02:28:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/admin/php/admin_logout.php on line 4
+[04-Feb-2019 02:51:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/admin/php/admin_logout.php on line 4
+[04-Feb-2019 04:35:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/admin/php/admin_logout.php on line 4
+[07-Feb-2019 14:35:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/admin/php/admin_logout.php on line 4
+[08-Feb-2019 08:55:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/gf13k2r1p8ra/public_html/admin/php/admin_logout.php on line 4

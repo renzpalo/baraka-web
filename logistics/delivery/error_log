@@ -1,0 +1,7 @@
+[30-Jan-2019 21:49:32 UTC] PHP Notice:  Undefined index: log_name in /home/gf13k2r1p8ra/public_html/logistics/delivery/php/logistics_dash_nav.php on line 10
+[30-Jan-2019 21:49:32 UTC] PHP Notice:  Undefined index: log_id in /home/gf13k2r1p8ra/public_html/logistics/delivery/new_shipments.php on line 7
+[30-Jan-2019 21:49:32 UTC] PHP Notice:  Undefined index: log_id in /home/gf13k2r1p8ra/public_html/logistics/delivery/new_shipments.php on line 11
+[30-Jan-2019 21:49:32 UTC] PHP Notice:  Undefined index: log_company in /home/gf13k2r1p8ra/public_html/logistics/delivery/new_shipments.php on line 12
+[30-Jan-2019 21:49:32 UTC] PHP Notice:  Undefined index: log_name in /home/gf13k2r1p8ra/public_html/logistics/delivery/new_shipments.php on line 13
+[30-Jan-2019 21:49:34 UTC] PHP Notice:  Undefined index: log_name in /home/gf13k2r1p8ra/public_html/logistics/delivery/php/logistics_dash_nav.php on line 10
+[30-Jan-2019 21:49:34 UTC] PHP Notice:  Undefined index: log_id in /home/gf13k2r1p8ra/public_html/logistics/delivery/index.php on line 6

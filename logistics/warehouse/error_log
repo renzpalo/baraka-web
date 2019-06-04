@@ -1,0 +1,2 @@
+[30-Jan-2019 21:49:32 UTC] PHP Notice:  Undefined index: log_name in /home/gf13k2r1p8ra/public_html/logistics/warehouse/php/logistics_dash_nav.php on line 10
+[30-Jan-2019 21:49:32 UTC] PHP Notice:  Undefined index: log_id in /home/gf13k2r1p8ra/public_html/logistics/warehouse/index.php on line 6

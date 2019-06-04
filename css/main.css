@@ -1,0 +1,513 @@
+/* 
+
+baraka
+
+PrimaryColor -  
+
+
+
+
+*/
+
+
+
+
+
+/* CAROUSEL */
+
+#myCarousel {
+	width: 100%;
+	height: 500px;
+}
+
+.carousel-inner {
+	width: 100%;
+	height: 500px;
+}
+
+.carousel-item {
+	width: 100%;
+	height: 500px;
+}
+
+.carousel-item img {
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+/* TOP NAV */
+
+#top-navbar {
+	margin: 0;
+	height: 20px;
+	font-size: 14px;
+	text-align: right;
+	line-height: 5px;
+	background: #FFFFFF;
+}
+
+#
+
+.top-nav {
+	text-align: center;
+}
+
+.top-nav ul {
+	list-style-type: none;
+	margin: 0;
+}
+
+.top-nav ul li {
+    float: right;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#top-navbar a {
+	display: inline;
+    text-decoration: none;
+    float: right;
+}
+
+/* NAVIGATION */
+
+.fas {
+
+}
+
+.shop-cart .fa-shopping-cart {
+	color: white;
+}
+
+.shop-cart .fa-shopping-cart:hover {
+	color: #F1F1F1;
+}
+
+.shop-cart {
+	margin-right: 30px;
+}
+
+.nav-search {
+	margin-right: 40px;
+	border: solid 1px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+.nav-search:hover {
+	transition: 0.2s;
+	box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+#search-box {
+	width: 700px;
+}
+
+
+
+.nav-search input {
+	width: 250px;
+}
+
+.btn-search {
+	color: white;
+}
+
+/* BOTTOM NAV */
+
+#bottom-navbar {
+	background: #FFFFFF;
+}
+
+/* PRODUCTS - CARD */
+
+.featured {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+#featured-products {
+	
+}
+
+#featured-products .product-card {
+	min-height: 275px;
+	max-height: 275px;
+}
+
+.featured h4 {
+	margin: 10px 0 10px 0;
+}
+
+/*#featured-products .card:hover {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}*/
+
+#featured-products .card img {
+	width: 100%;
+	max-height: 100px;
+}
+
+/* MAIN */
+
+.main-page {
+	
+}
+
+.main-page h1 {
+	text-align: center;
+}
+
+/* */
+
+.card-overlay {
+	height: 100%;
+	width: 100%;
+	transition: .2s ease;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.card-overlay p {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	position: relative;
+	white-space: nowrap;
+	word-break: break-all;
+	vertical-align: middle;
+
+}
+
+.card-item {
+	width: 150px;
+	height: 100px;
+	/*border: solid 1px black;*/
+	line-height: 100px;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.card-item .cover {
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+}
+
+.card-box a {
+	text-decoration: none;
+	color: white;
+}
+
+.card-box a:hover {
+	text-decoration: none;
+	color: #F1F1F1;
+}
+}
+
+/* PRODUCT CARD */
+
+.prod-name {
+
+}
+
+.prod-price {
+	font-size: 14px;
+}
+
+.prod-desc {
+	font-size: 12px;
+}
+
+/* PROVINCE */
+
+.province {
+	
+}
+
+.province a {
+	text-decoration: none;
+}
+
+/* CATEGORY */
+
+.categories-page {
+	width: 100%;
+	height: 100%;
+	background: #FF0000;
+	/*background: url(images/pampanga.jpg) top left no-repeat;
+	background-size: cover;*/
+}
+
+.category {
+	
+}
+
+
+/* INDEX */
+
+/* SIGN IN */
+
+/* SIGN UP */
+
+.signup-page {
+	width: 100%;
+	height: 100%;
+}
+
+.signup-page .left {
+	text-align: center;
+}
+
+
+/* PRODUCTS */
+
+.product-sidebar {
+
+}
+
+.product-sidebar ul {
+	list-style-type: none;
+}
+
+.product-sidebar ul li {
+	list-style-type: none;
+}
+
+.product-row {
+	margin: 20px 0 20px 0;
+}
+
+/* Featured Stores */
+
+.featured-store {
+	width: 150px;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	margin-bottom: 25px;
+}
+
+/* FOOTER */
+
+footer {
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+}
+
+.footer p {
+
+}
+
+/* Featured Products Carousel */
+
+.drop-menu {
+	position: fixed;
+	float: left;
+}
+
+.signin-form-box {
+	height: 500px;
+}
+
+.signin-form-box-img {
+	height: 500px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.customer-signin-form-box-img {
+	background: url(../images/bg/durians.jpg) no-repeat; 
+	background-size: cover;
+	background-position: center;
+}
+
+.seller-signin-form-box-img {
+	background: url(../images/bg/weave.jpg) no-repeat; 
+	background-size: cover;
+	background-position: center;
+}
+
+.logistics-signin-form-box-img {
+	background: url(../images/bg/crates.jpg) no-repeat; 
+	background-size: cover;
+	background-position: center;
+}
+
+.signup-form-box {
+	height: 700px;
+}
+
+.signup-form-box-img {
+	height: 700px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+
+}
+
+.customer-signup-form-box-img {
+	background: url(../images/bg/rice-teraces.jpeg) no-repeat; 
+	background-size: cover;
+	background-position: center;
+}
+
+.seller-signup-form-box-img {
+	background: url(../images/bg/rice-teraces.jpeg) no-repeat; 
+	background-size: cover;
+	background-position: center;
+}
+
+body {
+	background: #F1F1F1;
+}
+
+/* Product Information */
+
+.product-info {
+
+}
+
+.product-info h1 {
+	text-align: left;
+}
+
+/**/
+
+.search-product .product-card {
+	min-height: 300px;
+	max-height: 300px;
+}
+
+.search-product ul {
+	padding-left: 0;
+}
+
+.search-product ul li {
+	
+}
+
+.product-card .product-cover {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.product-card .product-image {
+	object-fit: cover;
+	height: 125px;
+	min-height: 125px;
+	max-height: 125px;
+}
+
+.product-card .product-title {
+	min-height: 45px;
+	max-height: 45px;
+	margin-bottom: 100px;
+
+}
+
+.product-card .product-rating {
+	
+}
+
+.product-card .product-province {
+	
+}
+
+
+.fstore {
+	border-radius: 20px;
+}
+
+.seller-logo {
+	object-fit: cover;
+}
+
+.seller-logo-cover {
+	object-fit: cover;
+}
+
+.seller-banner {
+	height: 200px;
+}
+
+.seller-banner h1 {
+	color: white;
+}
+
+.overlay {
+	height: 100%;
+	width: 100%;
+	transition: .2s ease;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.android-app {
+	width: 100%;
+	height: 350px;
+
+}
+
+.product-image-div {
+	text-align: center;
+}
+
+.product-image {
+	vertical-align: middle;
+	line-height: inherit;
+	margin: auto;
+}
+
+.product-ratings {
+	display: block;
+}
+
+.product-ratings .fa-star {
+	display: inline-block;
+	width: 15%;
+	height: 15%;
+}
+
+.product-province {
+	display: inline-block;
+}
+
+#productImages {
+	
+}
+
+#productImages .carousel-indicators .active {
+	background-color: rgba(0, 0, 0, .5);
+}
+
+
+#productImages .carousel-control-prev-icon {
+	background-color: rgba(0, 0, 0, .5);
+}
+
+#productImages .carousel-control-next-icon {
+	background-color: rgba(0, 0, 0, .5);
+}
+
+#productImages .carousel-inner {
+}
+
+#productImages .carousel-inner .carousel-item {
+	text-align:center;
+}
+
+#productImages .carousel-inner .carousel-item img {
+	display:inline-block  !important;
+}
+
+.star-yellow {
+	color: yellow;
+
+}
+
+.chat-box {
+	height: 250px; 
+	min-height: 250px; 
+	max-height: 250px; 
+	overflow-y: scroll;
+}
